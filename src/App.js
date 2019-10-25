@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import BoilingVerdict from "./BoilingVerdict";
 import Calculator from "./Calculator";
 
 function App() {
